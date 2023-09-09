@@ -17,3 +17,4 @@ Desarrollar un función que genere automáticamente contratos de venta de terren
 Garantizar que el sistema cumpla con las regulaciones de privacidad de datos y que los datos de los clientes estén seguros.
 Proporcionar capacitación a los empleados para asegurarse de que comprendan y utilicen eficazmente el sistema.
 
+# antecedentes de nuestro proyecto
