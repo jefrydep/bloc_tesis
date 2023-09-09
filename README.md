@@ -18,3 +18,4 @@ Garantizar que el sistema cumpla con las regulaciones de privacidad de datos y q
 Proporcionar capacitación a los empleados para asegurarse de que comprendan y utilicen eficazmente el sistema.
 
 # antecedentes de nuestro proyecto
+minimo 3 antecedetes debe ser en orden cronologicoa de mayor a menor
