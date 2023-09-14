@@ -19,3 +19,22 @@ Proporcionar capacitación a los empleados para asegurarse de que comprendan y u
 
 # antecedentes de nuestro proyecto
 minimo 3 antecedetes debe ser en orden cronologicoa de mayor a menor
+__Antecedentes internacionales
+Título: Desarrollo y diseño de una aplicación responsive aplicado a una
+inmobiliaria.
+Titulación master universitario.
+Autor: Juan Luis Román Martínez.
+Centro de Estudio: Universitat Oberta de Catalunya
+Ciudad/País: Barcelona- España 06-2017|
+
+http://hdl.handle.net/10609/64391
+Fecha de captura: 02/02/2019
+El proyecto tiene dos finalidades, “practicar todos los pasos posibles desde 0 de un
+proyecto hasta su puesta en marcha y el segundo es poder obtener un producto, una
+página web con un buen diseño actualizado y preparada para satisfacer a nuestros
+clientes objetivos”. (Román Martínez, 2017, pág. 10).
+En la introducción el autor se pregunta: ¿Cómo de importante es estar en internet?
+Esta es una pregunta que nos hacemos hoy en las organizaciones ya que algunos siguen
+siendo conservadores y siguen utilizando el proceso de negocio de hace décadas.
+Es por eso que al no innovar y usar la tecnología que disponemos actualmente no
+hace obsoletos ante nuestra competencia. 
