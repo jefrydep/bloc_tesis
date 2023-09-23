@@ -179,3 +179,8 @@ Asegúrate de referenciar las tablas y figuras en el texto y explicar su conteni
 
 Formatea las referencias bibliográficas según las pautas APA. Consulta el Manual de Publicación de las Normas APA para obtener detalles específicos sobre cómo citar diferentes tipos de fuentes.
 Es importante consultar el Manual de Publicación de las Normas APA (actualmente, la séptima edición) para obtener orientación detallada sobre cómo aplicar estas pautas de manera precisa y consistente en tu proyecto de investigación. También puedes encontrar guías en línea y herramientas de formato que te ayudarán a aplicar las Normas APA de manera efectiva.
+
+###### definir que tipo de proyecto se esta haciendo
+ ### proyecto de innovacion es cuando no existe el proyecto en la empres
+ hacre diagrama de ishikawa pareto o 
+ ## diagrama de flujo de datos / es paresido  al diagrama de secuencias de un algoritmo 
